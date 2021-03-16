@@ -1,0 +1,40 @@
+{
+    "name": "clarkwinkelmann/flarum-ext-post-permissions",
+    "description": "Advanced permissions for post editing",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "mit",
+    "require": {
+        "flarum/core": "^0.1.0-beta.15"
+    },
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/clarkwinkelmann/flarum-ext-post-permissions/issues",
+        "source": "https://github.com/clarkwinkelmann/flarum-ext-post-permissions"
+    },
+    "autoload": {
+        "psr-4": {
+            "ClarkWinkelmann\\PostPermissions\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Post Permissions",
+            "category": "discussion",
+            "icon": {
+                "name": "fas fa-pencil-alt",
+                "backgroundColor": "#684ba6",
+                "color": "#fff"
+            }
+        }
+    }
+}
