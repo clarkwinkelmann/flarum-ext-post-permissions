@@ -34,3 +34,4 @@ Support is offered on a "best effort" basis through the Flarum community thread.
 
 - [GitHub](https://github.com/clarkwinkelmann/flarum-ext-post-permissions)
 - [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-permissions)
+- [Discuss](https://discuss.flarum.org/d/26521)
