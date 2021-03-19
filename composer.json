@@ -19,7 +19,8 @@
     ],
     "support": {
         "issues": "https://github.com/clarkwinkelmann/flarum-ext-post-permissions/issues",
-        "source": "https://github.com/clarkwinkelmann/flarum-ext-post-permissions"
+        "source": "https://github.com/clarkwinkelmann/flarum-ext-post-permissions",
+        "forum": "https://discuss.flarum.org/d/26521"
     },
     "autoload": {
         "psr-4": {
@@ -35,6 +36,9 @@
                 "backgroundColor": "#684ba6",
                 "color": "#fff"
             }
+        },
+        "flagrow": {
+            "discuss": "https://discuss.flarum.org/d/26521"
         }
     }
 }
